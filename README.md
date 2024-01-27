@@ -1,235 +1,219 @@
-<h3 align="center">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h3 align="center" tabindex="-1" dir="auto"><a id="user-content-------" class="anchor" aria-hidden="true" tabindex="-1" href="#------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
   <a href="https://github.com/fastlane/fastlane/blob/master/fastlane/assets/fastlane_text.png">
-  <img src="https://github.com/fastlane/fastlane/blob/master/fastlane/assets/fastlane_text.png?raw=true" alt="fastlane Logo" width="500">
+  <img src="https://github.com/fastlane/fastlane/raw/master/fastlane/assets/fastlane_text.png?raw=true" alt="快车道标志" width="500" style="max-width: 100%;">
   </a>
 </h3>
+<p dir="auto"><a href="https://twitter.com/FastlaneTools" rel="nofollow"><img src="https://camo.githubusercontent.com/f3947d9a1c5031dc3075140af6a5ecc5bfa133b0dd91ced2e72a55de87753356/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e746163742d40466173746c616e65546f6f6c732d626c75652e7376673f7374796c653d666c6174" alt="推特：@FastlaneTools" data-canonical-src="https://img.shields.io/badge/contact-@FastlaneTools-blue.svg?style=flat" style="max-width: 100%;"></a>
+<a href="https://github.com/fastlane/fastlane/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/e74385ad9b83449a39b63037eb37be6aea3bb40521bb6b873d76f30ed985c51d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d677265656e2e7376673f7374796c653d666c6174" alt="执照" data-canonical-src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" style="max-width: 100%;"></a>
+<a href="https://rubygems.org/gems/fastlane" rel="nofollow"><img src="https://camo.githubusercontent.com/793c01ede3af39409c2a728f0d2cf716311c54f5b45b790fec159e0c9a9aae11/68747470733a2f2f696d672e736869656c64732e696f2f67656d2f762f666173746c616e652e7376673f7374796c653d666c6174" alt="宝石" data-canonical-src="https://img.shields.io/gem/v/fastlane.svg?style=flat" style="max-width: 100%;"></a>
+<a href="https://formulae.brew.sh/formula/fastlane" rel="nofollow"><img src="https://camo.githubusercontent.com/c06dac36e513bb709e8c5d048dc72fdd0503820009734ebced66d2502d65d570/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f6a736f6e2e7376673f75726c3d68747470733a2f2f666f726d756c61652e627265772e73682f6170692f666f726d756c612f666173746c616e652e6a736f6e2671756572793d242e76657273696f6e732e737461626c65266c6162656c3d686f6d6562726577" alt="自制" data-canonical-src="https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/formula/fastlane.json&amp;query=$.versions.stable&amp;label=homebrew" style="max-width: 100%;"></a>
+<a href="https://circleci.com/gh/fastlane/fastlane" rel="nofollow"><img src="https://camo.githubusercontent.com/8751016d393886f72d3b77d6638a17e7af7c28f4a403177ad7791e3032eab0d6/68747470733a2f2f696d672e736869656c64732e696f2f636972636c6563692f70726f6a6563742f6769746875622f666173746c616e652f666173746c616e652f6d61737465722e737667" alt="构建状态" data-canonical-src="https://img.shields.io/circleci/project/github/fastlane/fastlane/master.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/fastlane/fastlane/blob/master/CONTRIBUTING.md"><img src="https://camo.githubusercontent.com/7f745fb7dd2a22f68fe03adcdb977963ada4c8265675e572c629b29b9b34af2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667" alt="欢迎 PR！" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fastlane</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一款供 iOS 和 Android 开发人员自动执行繁琐任务的工具，例如生成屏幕截图、处理配置文件和发布应用程序。</font></font></p>
+<hr>
+<h2 align="center" tabindex="-1" dir="auto"><a id="user-content----all-fastlane-docs-were-moved-to-docsfastlanetools-" class="anchor" aria-hidden="true" tabindex="-1" href="#---all-fastlane-docs-were-moved-to-docsfastlanetools-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  ✨ 所有 fastlane 文档均已移至</font></font><a href="https://docs.fastlane.tools/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docs.fastlane.tools</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ✨
+</font></font></h2>
+<hr>
+<h2 tabindex="-1" dir="auto"><a id="user-content-need-help" class="anchor" aria-hidden="true" tabindex="-1" href="#need-help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">需要帮忙？</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在提交新的 GitHub 问题之前，请确保</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="https://docs.fastlane.tools" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docs.fastlane.tools</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索</font></font><a href="https://github.com/fastlane/fastlane/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现有的 GitHub 问题</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果上述方法没有帮助，请在 GitHub 上</font></font><a href="https://github.com/fastlane/fastlane/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并提供有关您的设置的信息，特别是命令的输出</font></font><code>fastlane env</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：如果您想报告</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fastlane</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的回归（以前有效，但在新版本中出现问题），请使用 标记您的问题标题</font></font><code>[Regression] Your title here</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">这使我们能够快速检测并修复回归。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-fastlane-team" class="anchor" aria-hidden="true" tabindex="-1" href="#fastlane-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快车道</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">团队</font></font></h2>
 
-[![Twitter: @FastlaneTools](https://img.shields.io/badge/contact-@FastlaneTools-blue.svg?style=flat)](https://twitter.com/FastlaneTools)
-[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
-[![Gem](https://img.shields.io/gem/v/fastlane.svg?style=flat)](https://rubygems.org/gems/fastlane)
-[![Homebrew](https://img.shields.io/badge/dynamic/json.svg?url=https://formulae.brew.sh/api/formula/fastlane.json&query=$.versions.stable&label=homebrew)](https://formulae.brew.sh/formula/fastlane)
-[![Build Status](https://img.shields.io/circleci/project/github/fastlane/fastlane/master.svg)](https://circleci.com/gh/fastlane/fastlane)
-[![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/fastlane/fastlane/blob/master/CONTRIBUTING.md)
-
-_fastlane_ is a tool for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application.
-
-<hr />
-<h2 align="center">
-  ✨ All fastlane docs were moved to <a href="https://docs.fastlane.tools/">docs.fastlane.tools</a> ✨
-</h2>
-<hr />
-
-## Need Help?
-
-Before submitting a new GitHub issue, please make sure to
-
-- Check out [docs.fastlane.tools](https://docs.fastlane.tools)
-- Search for [existing GitHub issues](https://github.com/fastlane/fastlane/issues)
-
-If the above doesn't help, please [submit an issue](https://github.com/fastlane/fastlane/issues) on GitHub and provide information about your setup, in particular the output of the `fastlane env` command.
-
-**Note**: If you want to report a regression in _fastlane_ (something that has worked before, but broke with a new release), please mark your issue title as such using `[Regression] Your title here`. This enables us to quickly detect and fix regressions.
-
-## _fastlane_ team
-
-<!-- This table is regenerated and resorted on each release -->
-<table id='team'>
-<tr>
-<td id='manu-wallner'>
-<a href='https://github.com/milch'>
-<img src='https://github.com/milch.png' width='140px;'>
+<table id="user-content-team">
+<tbody><tr>
+<td id="user-content-manu-wallner">
+<a href="https://github.com/milch">
+<img src="https://github.com/milch.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/acrooow'>Manu Wallner</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-manu-wallner" class="anchor" aria-hidden="true" tabindex="-1" href="#manu-wallner"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/acrooow" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">马努·瓦尔纳</font></font></a></h4>
 </td>
-<td id='joshua-liebowitz'>
-<a href='https://github.com/taquitos'>
-<img src='https://github.com/taquitos.png' width='140px;'>
+<td id="user-content-joshua-liebowitz">
+<a href="https://github.com/taquitos">
+<img src="https://github.com/taquitos.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/taquitos'>Joshua Liebowitz</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-joshua-liebowitz" class="anchor" aria-hidden="true" tabindex="-1" href="#joshua-liebowitz"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/taquitos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">约书亚·利博维茨</font></font></a></h4>
 </td>
-<td id='danielle-tomlinson'>
-<a href='https://github.com/endocrimes'>
-<img src='https://github.com/endocrimes.png' width='140px;'>
+<td id="user-content-danielle-tomlinson">
+<a href="https://github.com/endocrimes">
+<img src="https://github.com/endocrimes.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/endocrimes'>Danielle Tomlinson</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-danielle-tomlinson" class="anchor" aria-hidden="true" tabindex="-1" href="#danielle-tomlinson"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/endocrimes" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丹妮尔·汤姆林森</font></font></a></h4>
 </td>
-<td id='satoshi-namai'>
-<a href='https://github.com/ainame'>
-<img src='https://github.com/ainame.png' width='140px;'>
+<td id="user-content-satoshi-namai">
+<a href="https://github.com/ainame">
+<img src="https://github.com/ainame.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/ainame'>Satoshi Namai</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-satoshi-namai" class="anchor" aria-hidden="true" tabindex="-1" href="#satoshi-namai"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/ainame" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生井聪</font></font></a></h4>
 </td>
-<td id='felix-krause'>
-<a href='https://github.com/KrauseFx'>
-<img src='https://github.com/KrauseFx.png' width='140px;'>
+<td id="user-content-felix-krause">
+<a href="https://github.com/KrauseFx">
+<img src="https://github.com/KrauseFx.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/KrauseFx'>Felix Krause</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-felix-krause" class="anchor" aria-hidden="true" tabindex="-1" href="#felix-krause"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/KrauseFx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">菲利克斯·克劳斯</font></font></a></h4>
 </td>
 </tr>
 <tr>
-<td id='łukasz-grabowski'>
-<a href='https://github.com/lucgrabowski'>
-<img src='https://github.com/lucgrabowski.png' width='140px;'>
+<td id="user-content-łukasz-grabowski">
+<a href="https://github.com/lucgrabowski">
+<img src="https://github.com/lucgrabowski.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'>Łukasz Grabowski</h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-łukasz-grabowski" class="anchor" aria-hidden="true" tabindex="-1" href="#łukasz-grabowski"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">武卡斯·格拉博夫斯基</font></font></h4>
 </td>
-<td id='maksym-grebenets'>
-<a href='https://github.com/mgrebenets'>
-<img src='https://github.com/mgrebenets.png' width='140px;'>
+<td id="user-content-maksym-grebenets">
+<a href="https://github.com/mgrebenets">
+<img src="https://github.com/mgrebenets.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/mgrebenets'>Maksym Grebenets</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-maksym-grebenets" class="anchor" aria-hidden="true" tabindex="-1" href="#maksym-grebenets"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/mgrebenets" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">马克西姆·格雷贝内茨</font></font></a></h4>
 </td>
-<td id='fumiya-nakamura'>
-<a href='https://github.com/nafu'>
-<img src='https://github.com/nafu.png' width='140px;'>
+<td id="user-content-fumiya-nakamura">
+<a href="https://github.com/nafu">
+<img src="https://github.com/nafu.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/nafu003'>Fumiya Nakamura</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-fumiya-nakamura" class="anchor" aria-hidden="true" tabindex="-1" href="#fumiya-nakamura"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/nafu003" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中村文也</font></font></a></h4>
 </td>
-<td id='jérôme-lacoste'>
-<a href='https://github.com/lacostej'>
-<img src='https://github.com/lacostej.png' width='140px;'>
+<td id="user-content-jérôme-lacoste">
+<a href="https://github.com/lacostej">
+<img src="https://github.com/lacostej.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/lacostej'>Jérôme Lacoste</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-jérôme-lacoste" class="anchor" aria-hidden="true" tabindex="-1" href="#jérôme-lacoste"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/lacostej" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">杰罗姆·拉科斯特</font></font></a></h4>
 </td>
-<td id='stefan-natchev'>
-<a href='https://github.com/snatchev'>
-<img src='https://github.com/snatchev.png' width='140px;'>
+<td id="user-content-stefan-natchev">
+<a href="https://github.com/snatchev">
+<img src="https://github.com/snatchev.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/snatchev'>Stefan Natchev</a></h4>
-</td>
-</tr>
-<tr>
-<td id='helmut-januschka'>
-<a href='https://github.com/hjanuschka'>
-<img src='https://github.com/hjanuschka.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/hjanuschka'>Helmut Januschka</a></h4>
-</td>
-<td id='manish-rathi'>
-<a href='https://github.com/crazymanish'>
-<img src='https://github.com/crazymanish.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/iammanishrathi'>Manish Rathi</a></h4>
-</td>
-<td id='max-ott'>
-<a href='https://github.com/max-ott'>
-<img src='https://github.com/max-ott.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/ott_max'>Max Ott</a></h4>
-</td>
-<td id='jimmy-dee'>
-<a href='https://github.com/jdee'>
-<img src='https://github.com/jdee.png' width='140px;'>
-</a>
-<h4 align='center'>Jimmy Dee</h4>
-</td>
-<td id='roger-oba'>
-<a href='https://github.com/rogerluan'>
-<img src='https://github.com/rogerluan.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/rogerluan_'>Roger Oba</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-stefan-natchev" class="anchor" aria-hidden="true" tabindex="-1" href="#stefan-natchev"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/snatchev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯特凡·纳切夫</font></font></a></h4>
 </td>
 </tr>
 <tr>
-<td id='iulian-onofrei'>
-<a href='https://github.com/revolter'>
-<img src='https://github.com/revolter.png' width='140px;'>
+<td id="user-content-helmut-januschka">
+<a href="https://github.com/hjanuschka">
+<img src="https://github.com/hjanuschka.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/Revolt666'>Iulian Onofrei</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-helmut-januschka" class="anchor" aria-hidden="true" tabindex="-1" href="#helmut-januschka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/hjanuschka" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赫尔穆特·亚努施卡</font></font></a></h4>
 </td>
-<td id='josh-holtz'>
-<a href='https://github.com/joshdholtz'>
-<img src='https://github.com/joshdholtz.png' width='140px;'>
+<td id="user-content-manish-rathi">
+<a href="https://github.com/crazymanish">
+<img src="https://github.com/crazymanish.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/joshdholtz'>Josh Holtz</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-manish-rathi" class="anchor" aria-hidden="true" tabindex="-1" href="#manish-rathi"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/iammanishrathi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">曼尼什·拉蒂</font></font></a></h4>
 </td>
-<td id='daniel-jankowski'>
-<a href='https://github.com/mollyIV'>
-<img src='https://github.com/mollyIV.png' width='140px;'>
+<td id="user-content-max-ott">
+<a href="https://github.com/max-ott">
+<img src="https://github.com/max-ott.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/mollyIV'>Daniel Jankowski</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-max-ott" class="anchor" aria-hidden="true" tabindex="-1" href="#max-ott"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/ott_max" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">马克斯·奥特</font></font></a></h4>
 </td>
-<td id='andrew-mcburney'>
-<a href='https://github.com/armcburney'>
-<img src='https://github.com/armcburney.png' width='140px;'>
+<td id="user-content-jimmy-dee">
+<a href="https://github.com/jdee">
+<img src="https://github.com/jdee.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/armcburney'>Andrew McBurney</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-jimmy-dee" class="anchor" aria-hidden="true" tabindex="-1" href="#jimmy-dee"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">吉米·迪伊</font></font></h4>
 </td>
-<td id='jan-piotrowski'>
-<a href='https://github.com/janpio'>
-<img src='https://github.com/janpio.png' width='140px;'>
+<td id="user-content-roger-oba">
+<a href="https://github.com/rogerluan">
+<img src="https://github.com/rogerluan.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/Sujan'>Jan Piotrowski</a></h4>
-</td>
-</tr>
-<tr>
-<td id='luka-mirosevic'>
-<a href='https://github.com/lmirosevic'>
-<img src='https://github.com/lmirosevic.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/lmirosevic'>Luka Mirosevic</a></h4>
-</td>
-<td id='kohki-miki'>
-<a href='https://github.com/giginet'>
-<img src='https://github.com/giginet.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/giginet'>Kohki Miki</a></h4>
-</td>
-<td id='aaron-brager'>
-<a href='https://github.com/getaaron'>
-<img src='https://github.com/getaaron.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/getaaron'>Aaron Brager</a></h4>
-</td>
-<td id='olivier-halligon'>
-<a href='https://github.com/AliSoftware'>
-<img src='https://github.com/AliSoftware.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/aligatr'>Olivier Halligon</a></h4>
-</td>
-<td id='jorge-revuelta-h'>
-<a href='https://github.com/minuscorp'>
-<img src='https://github.com/minuscorp.png' width='140px;'>
-</a>
-<h4 align='center'><a href='https://twitter.com/minuscorp'>Jorge Revuelta H</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-roger-oba" class="anchor" aria-hidden="true" tabindex="-1" href="#roger-oba"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/rogerluan_" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">罗杰·欧巴</font></font></a></h4>
 </td>
 </tr>
 <tr>
-<td id='matthew-ellis'>
-<a href='https://github.com/matthewellis'>
-<img src='https://github.com/matthewellis.png' width='140px;'>
+<td id="user-content-iulian-onofrei">
+<a href="https://github.com/revolter">
+<img src="https://github.com/revolter.png" width="140px;" style="max-width: 100%;">
 </a>
-<h4 align='center'><a href='https://twitter.com/mellis1995'>Matthew Ellis</a></h4>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-iulian-onofrei" class="anchor" aria-hidden="true" tabindex="-1" href="#iulian-onofrei"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/Revolt666" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尤利安·奥诺弗雷</font></font></a></h4>
 </td>
-</table>
-
-Special thanks to all [contributors](https://github.com/fastlane/fastlane/graphs/contributors) for extending and improving _fastlane_.
-
-## Contribute to _fastlane_
-
-Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to help with _fastlane_.
-
-## Code of Conduct
-
-Help us keep _fastlane_ open and inclusive. Please read and follow our [Code of Conduct](https://github.com/fastlane/fastlane/blob/master/CODE_OF_CONDUCT.md).
-
-## Metrics
-
-_fastlane_ tracks a few key metrics to understand how developers are using the tool and to help us know what areas need improvement. No personal/sensitive information is ever collected. Metrics that are collected include:
-
-* The number of _fastlane_ runs
-* A salted hash of the app identifier or package name, which helps us anonymously identify unique usage of _fastlane_
-
-You can easily opt-out of metrics collection by adding `opt_out_usage` at the top of your `Fastfile` or by setting the environment variable `FASTLANE_OPT_OUT_USAGE`. [Check out the metrics code on GitHub](https://github.com/fastlane/fastlane/tree/master/fastlane_core/lib/fastlane_core/analytics)
-
-## License
-
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file.
-
-> This project and all fastlane tools are in no way affiliated with Apple Inc. This project is open source under the MIT license, which means you have full access to the source code and can modify it to fit your own needs. All fastlane tools run on your own computer or server, so your credentials or other sensitive information will never leave your own computer. You are responsible for how you use fastlane tools.
-
-<hr />
-<h2 align="center">
-  ✨ All fastlane docs were moved to <a href="https://docs.fastlane.tools/">docs.fastlane.tools</a> ✨
-</h2>
-<hr />
+<td id="user-content-josh-holtz">
+<a href="https://github.com/joshdholtz">
+<img src="https://github.com/joshdholtz.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-josh-holtz" class="anchor" aria-hidden="true" tabindex="-1" href="#josh-holtz"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/joshdholtz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">乔什·霍尔茨</font></font></a></h4>
+</td>
+<td id="user-content-daniel-jankowski">
+<a href="https://github.com/mollyIV">
+<img src="https://github.com/mollyIV.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-daniel-jankowski" class="anchor" aria-hidden="true" tabindex="-1" href="#daniel-jankowski"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/mollyIV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">丹尼尔·扬科斯基</font></font></a></h4>
+</td>
+<td id="user-content-andrew-mcburney">
+<a href="https://github.com/armcburney">
+<img src="https://github.com/armcburney.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-andrew-mcburney" class="anchor" aria-hidden="true" tabindex="-1" href="#andrew-mcburney"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/armcburney" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安德鲁·麦克伯尼</font></font></a></h4>
+</td>
+<td id="user-content-jan-piotrowski">
+<a href="https://github.com/janpio">
+<img src="https://github.com/janpio.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-jan-piotrowski" class="anchor" aria-hidden="true" tabindex="-1" href="#jan-piotrowski"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/Sujan" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">扬·皮奥特罗斯基</font></font></a></h4>
+</td>
+</tr>
+<tr>
+<td id="user-content-luka-mirosevic">
+<a href="https://github.com/lmirosevic">
+<img src="https://github.com/lmirosevic.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-luka-mirosevic" class="anchor" aria-hidden="true" tabindex="-1" href="#luka-mirosevic"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/lmirosevic" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卢卡·米罗舍维奇</font></font></a></h4>
+</td>
+<td id="user-content-kohki-miki">
+<a href="https://github.com/giginet">
+<img src="https://github.com/giginet.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-kohki-miki" class="anchor" aria-hidden="true" tabindex="-1" href="#kohki-miki"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/giginet" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">光希三木</font></font></a></h4>
+</td>
+<td id="user-content-aaron-brager">
+<a href="https://github.com/getaaron">
+<img src="https://github.com/getaaron.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-aaron-brager" class="anchor" aria-hidden="true" tabindex="-1" href="#aaron-brager"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/getaaron" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">亚伦·布雷格</font></font></a></h4>
+</td>
+<td id="user-content-olivier-halligon">
+<a href="https://github.com/AliSoftware">
+<img src="https://github.com/AliSoftware.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-olivier-halligon" class="anchor" aria-hidden="true" tabindex="-1" href="#olivier-halligon"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/aligatr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">奥利维尔哈利根</font></font></a></h4>
+</td>
+<td id="user-content-jorge-revuelta-h">
+<a href="https://github.com/minuscorp">
+<img src="https://github.com/minuscorp.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-jorge-revuelta-h" class="anchor" aria-hidden="true" tabindex="-1" href="#jorge-revuelta-h"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/minuscorp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">豪尔赫·雷韦尔塔 H</font></font></a></h4>
+</td>
+</tr>
+<tr>
+<td id="user-content-matthew-ellis">
+<a href="https://github.com/matthewellis">
+<img src="https://github.com/matthewellis.png" width="140px;" style="max-width: 100%;">
+</a>
+<h4 align="center" tabindex="-1" dir="auto"><a id="user-content-matthew-ellis" class="anchor" aria-hidden="true" tabindex="-1" href="#matthew-ellis"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://twitter.com/mellis1995" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">马修·埃利斯</font></font></a></h4>
+</td>
+</tr></tbody></table>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特别感谢所有</font><font style="vertical-align: inherit;">扩展和改进</font><em><font style="vertical-align: inherit;">fastlane 的</font></em></font><a href="https://github.com/fastlane/fastlane/graphs/contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contribute-to-fastlane" class="anchor" aria-hidden="true" tabindex="-1" href="#contribute-to-fastlane"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快车道做出贡献</font></font></em></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="/fastlane/fastlane/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CONTRIBUTING.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关如何帮助使用</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fastlane 的</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多信息。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-code-of-conduct" class="anchor" aria-hidden="true" tabindex="-1" href="#code-of-conduct"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为守则</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帮助我们保持</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快车道</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开放和包容。</font><font style="vertical-align: inherit;">请阅读并遵守我们的</font></font><a href="https://github.com/fastlane/fastlane/blob/master/CODE_OF_CONDUCT.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为准则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-metrics" class="anchor" aria-hidden="true" tabindex="-1" href="#metrics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指标</font></font></h2>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fastlane</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跟踪一些关键指标，以了解开发人员如何使用该工具并帮助我们了解哪些领域需要改进。</font><font style="vertical-align: inherit;">不会收集任何个人/敏感信息。</font><font style="vertical-align: inherit;">收集的指标包括：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快车道</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行</font><font style="vertical-align: inherit;">次数</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序标识符或包名称的加盐哈希，这有助于我们匿名识别</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fastlane的独特用法</font></font></em></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"></font><code>opt_out_usage</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以通过在顶部添加</font></font><code>Fastfile</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或设置环境变量</font><font style="vertical-align: inherit;">来轻松选择退出指标收集</font></font><code>FASTLANE_OPT_OUT_USAGE</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font><a href="https://github.com/fastlane/fastlane/tree/master/fastlane_core/lib/fastlane_core/analytics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看 GitHub 上的指标代码</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目根据 MIT 许可证条款获得许可。</font><font style="vertical-align: inherit;">请参阅</font></font><a href="/fastlane/fastlane/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件。</font></font></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目和所有 fastlane 工具与 Apple Inc 没有任何关联。该项目是在 MIT 许可证下开源的，这意味着您可以完全访问源代码，并可以对其进行修改以满足您自己的需求。</font><font style="vertical-align: inherit;">所有 fastlane 工具都在您自己的计算机或服务器上运行，因此您的凭据或其他敏感信息永远不会离开您自己的计算机。</font><font style="vertical-align: inherit;">您对如何使用 fastlane 工具负责。</font></font></p>
+</blockquote>
+<hr>
+<h2 align="center" tabindex="-1" dir="auto"><a id="user-content----all-fastlane-docs-were-moved-to-docsfastlanetools--1" class="anchor" aria-hidden="true" tabindex="-1" href="#---all-fastlane-docs-were-moved-to-docsfastlanetools--1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  ✨ 所有 fastlane 文档均已移至</font></font><a href="https://docs.fastlane.tools/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docs.fastlane.tools</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ✨
+</font></font></h2>
+<hr>
+</article></div>
